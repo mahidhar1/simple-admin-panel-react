@@ -1,1 +1,0 @@
-# simple-admin-panel-react
